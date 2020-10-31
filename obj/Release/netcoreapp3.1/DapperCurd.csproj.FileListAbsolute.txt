@@ -1,0 +1,5 @@
+C:\Projects2019\DapperCurd\DapperCurd\obj\Release\netcoreapp3.1\staticwebassets\DapperCurd.StaticWebAssets.Manifest.cache
+C:\Projects2019\DapperCurd\DapperCurd\obj\Release\netcoreapp3.1\staticwebassets\DapperCurd.StaticWebAssets.xml
+C:\Projects2019\DapperCurd\DapperCurd\obj\Release\netcoreapp3.1\DapperCurd.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects2019\DapperCurd\DapperCurd\obj\Release\netcoreapp3.1\DapperCurd.AssemblyInfoInputs.cache
+C:\Projects2019\DapperCurd\DapperCurd\obj\Release\netcoreapp3.1\DapperCurd.AssemblyInfo.cs
